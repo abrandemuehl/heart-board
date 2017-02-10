@@ -1,0 +1,13 @@
+*.G*
+*.b#*
+*.s#*
+.*.lck
+
+
+*.TXT
+*.dri
+*.gpi
+*.zip
+
+
+eagle.epf
